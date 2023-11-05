@@ -24,18 +24,18 @@ This was developed using :
 - SQLite (for the database)
 
 ### App main feed
-![Screenshot of the app ](ReadMe_Assets/screenshot1.JPG)
+![Screenshot of the app ](ReadMe_Assets/Screenshot1.JPG)
 ### Login Page
-![Screenshot of the app ](ReadMe_Assets/screenshot2.JPG)
+![Screenshot of the app ](ReadMe_Assets/Screenshot2.JPG)
 ### Registration Page
-![Screenshot of the app ](ReadMe_Assets/screenshot3.JPG)
+![Screenshot of the app ](ReadMe_Assets/Screenshot3.JPG)
 ### Profile Page
-![Screenshot of the app ](ReadMe_Assets/screenshot4.JPG)
+![Screenshot of the app ](ReadMe_Assets/Screenshot4.JPG)
 ### Chatroom
-![Screenshot of the app ](ReadMe_Assets/screenshot5.JPG)
+![Screenshot of the app ](ReadMe_Assets/Screenshot5.JPG)
 ### REST API
-![Screenshot of the app ](ReadMe_Assets/screenshot6.JPG)
+![Screenshot of the app ](ReadMe_Assets/Screenshot6.JPG)
 ### REST API in action from the coolwebsites.html as an example
-![Screenshot of the app ](ReadMe_Assets/screenshot7.JPG)
+![Screenshot of the app ](ReadMe_Assets/Screenshot7.JPG)
 
 
