@@ -24,7 +24,7 @@ This was developed using :
 - SQLite (for the database)
 
 ### App main feed
-![Screenshot of the app ](ReadMe_Assets/Screenshot1.JPG)
+![Screenshot of the app ](ReadMe_Assets/screenshot1.JPG)
 ### Login Page
 ![Screenshot of the app ](ReadMe_Assets/Screenshot2.JPG)
 ### Registration Page
